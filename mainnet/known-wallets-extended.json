@@ -1,0 +1,22 @@
+[
+    {
+        "type": "team",
+        "name": "Genesis",
+        "address": "XVii6xY3Tu3iGqZGNE3MyjxBoDrTnhdu6G"
+    },
+        {
+        "type": "team",
+        "name": "Swap Master Address",
+        "address": "XSRLZspaECvszxLaUzVAx3WV5qqNkmBNXZ"
+    },
+    {
+        "type": "exchange",
+        "name": "STEX",
+        "address": "XYhgwCuap182ey5CP3RbNn3NENXdpevcHM"
+    },
+        {
+        "type": "team",
+        "name": "QSLP Master Address",
+        "address": "XQRJgWWdxrUqn7hnrtMWbVh7wgz2tP6hnh"
+    }
+]
